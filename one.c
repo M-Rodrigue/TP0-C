@@ -7,6 +7,8 @@
 #include <stdlib.h>   /* librairie standard C prototype */
 #include <stdio.h>    /* library standard Input/Output */
 
+/* sizeof donne la taille en bytes de son opérande */
+
 int main(int argc, char **argv){
   printf("Les tailles de variables en octets : \n");
   printf("long        : %d\n",sizeof(long));
