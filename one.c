@@ -1,7 +1,5 @@
 /********************************/
-/* Code 			                  */
-/* donne la taille des types	  */
-/* (c)2021  18/10 Bogt		      */
+/* Donne la taille des types	  */
 /********************************/
 
 #include <stdlib.h>   /* librairie standard C prototype */
