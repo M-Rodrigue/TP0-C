@@ -8,6 +8,6 @@
 int main (int argc , char **argv){
   int entier;
   entier=2018;
-  printf("le contenu de la variable entier : %d  \n",entier);
+  printf("le contenu de la variable entier : %x \n",entier);
   return EXIT_SUCCESS;
 }
